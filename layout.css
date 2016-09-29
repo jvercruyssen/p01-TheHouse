@@ -1,0 +1,18 @@
+.page{
+  font-family: "Courier New", monospace;
+  background-color: Orange;
+  color: FireBrick;
+}
+.choice{
+  background-color: Indigo;
+  color: GhostWhite;
+}
+a:link{
+  color: GhostWhite;
+}
+a:visited{
+  color: GhostWhite;
+}
+a:hover{
+  color: GhostWhite;
+}
